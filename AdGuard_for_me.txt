@@ -1,8 +1,10 @@
 ! Google検索のニュース非表示
 ##div.ULSxyf
+##div.xSoq1
 
 ! Google検索のヘッダーの非表示
 ##div.gke0pe
+##div.Zgesjc
 
 
 ! 特定のワードを含む検索をブロック(英語のみ対応)
