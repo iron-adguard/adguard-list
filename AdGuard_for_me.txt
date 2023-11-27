@@ -1,10 +1,14 @@
 ! Google検索のニュース非表示
 ##div.ULSxyf
 ##div.xSoq1
+##div.kNfbm
 
 ! Google検索のヘッダーの非表示
 ##div.gke0pe
 ##div.Zgesjc
+
+! Google検索の省略説明の非表示
+##div.qxproot
 
 
 ! 特定のワードを含む検索をブロック(英語のみ対応)
@@ -35,8 +39,21 @@
 ||*antena*^
 ||*anntena*^
 ||*mato*^
+||*puro*^
 ||*yakyu*^
 ||*jra*^
 ||*oricon*^
 ||*idol*^
 ||*bilibili*^
+||*gunosy*^
+||*blog*^
+||*friday*^
+||*video*^
+||*shueisha*^
+||*dmm*^
+||*kodansha*^
+||*young*^
+||*rbbtoday*^
+||*shutterstock*^
+||*renote*^
+||*ameba*^
