@@ -46,7 +46,7 @@
 ||*idol*^
 ||*bilibili*^
 ||*gunosy*^
-||*blog*^
+! ||*blog*^
 ||*friday*^
 ||*video*^
 ||*shueisha*^
