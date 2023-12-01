@@ -46,7 +46,6 @@
 ||*idol*^
 ||*bilibili*^
 ||*gunosy*^
-! ||*blog*^
 ||*friday*^
 ||*video*^
 ||*shueisha*^
@@ -57,3 +56,7 @@
 ||*shutterstock*^
 ||*renote*^
 ||*ameba*^
+||*twfan*^
+
+! 特定のワードをURLに含むサイトをブロック(一時停止中)
+! ||*blog*^
